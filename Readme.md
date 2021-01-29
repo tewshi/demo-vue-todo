@@ -4,13 +4,9 @@ Run the script in `schema.sql` to generate the db, create the tables and insert 
 
 Open `database.php` and enter your database username and password
 
-Run/serve with serve
-```shell script
-npm install serve
-serve ./
-```
+Run/serve with apache
 
-then open http://127.0.0.1:8001/login.html in your browser
+then open http://127.0.0.1/login in your browser
 
 | username     | password |
 |:-------------|:---------|
